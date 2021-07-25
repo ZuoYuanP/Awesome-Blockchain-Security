@@ -8,7 +8,7 @@
 
 ## Blockchain Cornerstone
 
-[Bitcoin White Paper][https://bitcoin.org/bitcoin.pdf] - https://bitcoin.org/bitcoin.pdf
+[Bitcoin White Paper](https://bitcoin.org/bitcoin.pdf) - https://bitcoin.org/bitcoin.pdf
 
 [EIPS](https://eips.ethereum.org/) - https://eips.ethereum.org/
 
@@ -26,7 +26,7 @@
 
 [Seebug Paper Blockchain Security](https://paper.seebug.org/category/blockchain/)
 
-[Freebuf 区块链安全专区](https://www.freebuf.com/articles/blockchain-articles/)
+[Freebuf区块链安全专区](https://www.freebuf.com/articles/blockchain-articles/)
 
 [安全客区块链安全专区](https://www.anquanke.com/tag/%E5%8C%BA%E5%9D%97%E9%93%BE%E5%AE%89%E5%85%A8)
 
@@ -34,7 +34,7 @@
 
 [PeckShield Audit Reports](https://github.com/peckshield/publications/tree/master/audit_reports)
 
-[SlowMist Audit Reports][https://github.com/slowmist/Knowledge-Base/tree/master/open-report]
+[SlowMist Audit Reports](https://github.com/slowmist/Knowledge-Base/tree/master/open-report)
 
 ## Blockchain Books
 
@@ -64,11 +64,11 @@
 
 ## Blockchain Community
 
-[BitcoinTalk][https://bitcointalk.org/]
+[BitcoinTalk](https://bitcointalk.org/)
 
-[登链社区][https://learnblockchain.cn/]
+[登链社区](https://learnblockchain.cn/)
 
-[无退社区][https://wutui.pro/]
+[无退社区](https://wutui.pro/)
 
 [Solidity Official Community](https://forum.soliditylang.org/)
 
@@ -76,15 +76,15 @@
 
 [CertiK](https://www.certik.io/)
 
-[ChainSecurity][https://chainsecurity.com/]
+[ChainSecurity](https://chainsecurity.com/)
 
 [SlowMist](https://slowmist.com)
 
-[PeckShield][https://peckshield.cn/]
+[PeckShield](https://peckshield.cn/)
 
 [北京链安](https://www.chainsguard.com/)
 
-[成都链安][https://www.lianantech.com/]
+[成都链安](https://www.lianantech.com/)
 
 ## References
 
