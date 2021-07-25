@@ -78,13 +78,21 @@
 
 [ChainSecurity](https://chainsecurity.com/)
 
-[SlowMist](https://slowmist.com)
+[SlowMist](https://slowmist.com/)
 
 [PeckShield](https://peckshield.cn/)
 
 [北京链安](https://www.chainsguard.com/)
 
 [成都链安](https://www.lianantech.com/)
+
+[零时科技](https://noneage.com/)
+
+[降维安全](https://johnwick.io/)
+
+[Chaitin](https://www.chaitin.cn/zh/blockchain)
+
+[知道创宇](https://knownseclab.com/)
 
 ## References
 
