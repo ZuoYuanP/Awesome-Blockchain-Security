@@ -22,6 +22,10 @@
 
 - [Cheatsheet](https://docs.soliditylang.org/en/latest/cheatsheet.html) - Cheatsheet from the official docs.
 
+- [Solidity development](https://learnblockchain.cn/column/1) - Comprehensively master Solidity smart contract development.
+
+- [Ethernaut](https://ethernaut.openzeppelin.com/) - Ethernaut is a Web3/Solidity based wargame.
+
 - [CryptoZombies](https://cryptozombies.io/) - CryptoZombies is a gaming platform for learning blockchain.
 
 - [ethereum/solidity](https://github.com/ethereum/solidity/) - Source code.
@@ -90,26 +94,100 @@
 
 ## Blockchain Security Enterprise
 
-- [CertiK](https://www.certik.io/)
+- [吞吴 - CertiK](https://www.certik.io/)
 
-- [ChainSecurity](https://chainsecurity.com/)
+- [链安 - ChainSecurity](https://chainsecurity.com/)
 
-- [SlowMist](https://slowmist.com/)
+- [安比实验室 - SECBIT](https://secbit.io/)
 
-- [PeckShield](https://peckshield.cn/)
+- [慢雾科技 - SlowMist](https://slowmist.com/)
 
-- [Chaitin](https://www.chaitin.cn/zh/blockchain/)
+- [派盾科技 - PeckShield](https://peckshield.cn/)
 
-- [北京链安](https://www.chainsguard.com/)
+- [长亭科技 - Chaitin](https://www.chaitin.cn/en/blockchain)
 
-- [成都链安](https://www.lianantech.com/)
+- [北京链安 - ChainsGuard](https://www.chainsguard.com/)
 
-- [零时科技](https://noneage.com/)
+- [成都链安 - Beosin](https://www.lianantech.com/)
 
-- [降维安全](https://johnwick.io/)
+- [零时科技 - Noneage](https://noneage.com/)
 
-- [知道创宇](https://knownseclab.com/)
+- [降维安全 - Johnwick](https://johnwick.io/)
+
+- [知道创宇 - KnownSec](https://knownseclab.com/)
+
+- [猎豹区块链安全中心 - CM Blockchain Security Center](https://safe.cmcm.com/)
+
+- [OpenZeppelin](https://openzeppelin.com/)
+
+- [Solidified](https://solidified.io/)
+
+- [Blockchain Consilium](https://www.blockchainconsilium.com/)
+
+- [Blockchain Labs NZ](https://www.blockchainlabs.nz/)
+
+- [BlockSoftLab](https://blocksoftlab.com/)
+
+- [Bloqchain Audit](https://thebloqchain.com/)
+
+- [Callisto Network](https://callisto.network/)
+
+- [Chainsulting](https://chainsulting.de/)
+
+- [Coinbae](https://coinbae.org/)
+
+- [Coinfabrik](https://www.coinfabrik.com/)
+
+- [CoinMercenary](https://www.coinmercenary.com/)
+
+- [Coinspect](https://www.coinspect.com/)
+
+- [ConsenSys Diligence](https://consensys.net/diligence/)
+
+- [Decenter](https://www.decenter.com/)
+
+- [Hacken](https://hacken.io/)
+
+- [HAECHI](https://haechi.io/)
+
+- [ImmuneBytes](https://immunebytes.com/)
+
+- [Immunefi](https://immunefi.com/)
+
+- [Iosiro](https://www.iosiro.com/)
+
+- [Kaspersky](https://www.kaspersky.com/blockchainsecurity/)
+
+- [MixBytes](https://mixbytes.io/)
+
+- [New Alchemy](https://audits.newalchemy.io/)
+
+- [PepperSec](https://peppersec.com/)
+
+- [Quantstamp](https://quantstamp.com/)
+
+- [QuillAudits](https://audits.quillhash.com/)
+
+- [Runtime Vеrification](https://www.runtimeverification.com/smartcontract/)
+
+- [Smartdec](https://smartcontracts.smartdec.net/)
+
+- [Solidified](https://solidified.io/)
+
+- [Solidity Finance](https://solidity.finance/)
+
+- [Somish](https://www.somish.com/)
+
+- [SOOHO](https://www.sooho.io/)
+
+- [Validity Labs](https://validitylabs.org/)
+
+- [Verichains Lab](https://www.verichains.io/)
+
+- [ZK Labs](https://zklabs.io/)
 
 ## References
 
 [Knowledge Base 慢雾安全团队知识库](https://github.com/slowmist/Knowledge-Base)
+
+[Etherscan Smart Contracts Audits](https://etherscan.io/directory/Smart_Contracts/Smart_Contracts_Audit_And_Security)
