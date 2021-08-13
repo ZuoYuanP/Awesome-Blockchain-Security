@@ -42,13 +42,43 @@
 
 - [安全客区块链安全专区](https://www.anquanke.com/tag/%E5%8C%BA%E5%9D%97%E9%93%BE%E5%AE%89%E5%85%A8)
 
-## Blockchain Security Audit Report
+## Blockchain Security Blogs
+
+- [xxxeyJ's Blog](https://tricksongs.com/) -  Security Researcher
+- [Ethereum](https://blog.ethereum.org/category/security/) - Ethereum's Blog
+- [OpenZeppelin](https://blog.openzeppelin.com/) - OpenZeppelin's Blog
+- [PeckShield](https://blog.peckshield.com/) - PeckShield's Blog
+- [Consensys][https://consensys.net/diligence/blog/] - Consensys's Blog
+- [Quantstamp](https://quantstamp.com/blog) - Quantstamp's Blog
+- [Certik](https://www.certik.io/blog#home) - Certik's Blog
+- [Iosiro](https://iosiro.com/blog) - Iosiro's Blog
+- [BlockHunters](https://blockhunters.io/blog/) - BlockHunters's Blog
+- [Coinfabrik](https://blog.coinfabrik.com/) - Coinfabrik's Blog
+- [Immunefi](https://medium.com/immunefi) - Immunefi's Blog
+
+## Blockchain Security Audit Reports
 
 - [PeckShield Audit Reports](https://github.com/peckshield/publications/tree/master/audit_reports)
 
 - [SlowMist Audit Reports](https://github.com/slowmist/Knowledge-Base/tree/master/open-report)
 
+- [Solidified Audit Reports](https://github.com/solidified-platform/audits)
+
 - [ChainSecurity Audit Reports](https://github.com/ChainSecurity/audits)
+
+- [ImmuneBytes Audit Reports](https://github.com/ImmuneBytes/Smart-Contract-Audit-Reports)
+
+- [TechRate Audit Reports](https://github.com/TechRate/Smart-Contract-Audits)
+
+- [Quillhash Audit Reports](https://github.com/Quillhash/Audit_Reports)
+
+- [Chainsulting Audit Reports](https://github.com/chainsulting/Smart-Contract-Security-Audits)
+
+## Blockchain security project party audit report
+
+- [AutofarmNetwork Audit Report](https://github.com/autofarmnetwork/autofarm_audits)
+- [NUTMoneyDeFi Audit Report](https://github.com/nutmoneydefi/audit-report)
+- [Quras Audit Report](https://github.com/quras-official/audit-report)as
 
 ## Blockchain Books
 
@@ -92,6 +122,10 @@
 
 - [OpenZeppelin Official Community](https://forum.openzeppelin.com/)
 
+- [Smart Contract Research Forum](https://www.smartcontractresearch.org/)
+
+- [Ethereum Magicians](https://ethereum-magicians.org/)
+
 ## Blockchain Security Enterprise
 
 - [吞吴 - CertiK](https://www.certik.io/)
@@ -116,11 +150,11 @@
 
 - [知道创宇 - KnownSec](https://knownseclab.com/)
 
-- [猎豹区块链安全中心 - CM Blockchain Security Center](https://safe.cmcm.com/)
-
 - [OpenZeppelin](https://openzeppelin.com/)
 
 - [Solidified](https://solidified.io/)
+
+- [BlockHunters](https://blockhunters.io/)
 
 - [Blockchain Consilium](https://www.blockchainconsilium.com/)
 
