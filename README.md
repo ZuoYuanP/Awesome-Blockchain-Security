@@ -48,7 +48,7 @@
 - [Ethereum](https://blog.ethereum.org/category/security/) - Ethereum's Blog
 - [OpenZeppelin](https://blog.openzeppelin.com/) - OpenZeppelin's Blog
 - [PeckShield](https://blog.peckshield.com/) - PeckShield's Blog
-- [Consensys][https://consensys.net/diligence/blog/] - Consensys's Blog
+- [Consensys](https://consensys.net/diligence/blog/) - Consensys's Blog
 - [Quantstamp](https://quantstamp.com/blog) - Quantstamp's Blog
 - [Certik](https://www.certik.io/blog#home) - Certik's Blog
 - [Iosiro](https://iosiro.com/blog) - Iosiro's Blog
