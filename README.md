@@ -45,15 +45,25 @@
 ## Blockchain Security Blogs
 
 - [xxxeyJ's Blog](https://tricksongs.com/) -  Security Researcher
+
 - [Ethereum](https://blog.ethereum.org/category/security/) - Ethereum's Blog
+
 - [OpenZeppelin](https://blog.openzeppelin.com/) - OpenZeppelin's Blog
+
 - [PeckShield](https://blog.peckshield.com/) - PeckShield's Blog
+
 - [Consensys](https://consensys.net/diligence/blog/) - Consensys's Blog
+
 - [Quantstamp](https://quantstamp.com/blog) - Quantstamp's Blog
+
 - [Certik](https://www.certik.io/blog#home) - Certik's Blog
+
 - [Iosiro](https://iosiro.com/blog) - Iosiro's Blog
+
 - [BlockHunters](https://blockhunters.io/blog/) - BlockHunters's Blog
+
 - [Coinfabrik](https://blog.coinfabrik.com/) - Coinfabrik's Blog
+
 - [Immunefi](https://medium.com/immunefi) - Immunefi's Blog
 
 ## Blockchain Security Audit Reports
@@ -225,3 +235,4 @@
 [Knowledge Base 慢雾安全团队知识库](https://github.com/slowmist/Knowledge-Base)
 
 [Etherscan Smart Contracts Audits](https://etherscan.io/directory/Smart_Contracts/Smart_Contracts_Audit_And_Security)
+
