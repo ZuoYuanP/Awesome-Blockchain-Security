@@ -68,6 +68,8 @@
 
 ## Blockchain Security Audit Reports
 
+- [OpenZeppelin Audit Reports](https://blog.openzeppelin.com/security-audits/)
+
 - [PeckShield Audit Reports](https://github.com/peckshield/publications/tree/master/audit_reports)
 
 - [SlowMist Audit Reports](https://github.com/slowmist/Knowledge-Base/tree/master/open-report)
