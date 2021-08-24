@@ -190,6 +190,8 @@
 
 - [ConsenSys Diligence](https://consensys.net/diligence/)
 
+- [CERTORA](https://www.certora.com/)
+
 - [Decenter](https://www.decenter.com/)
 
 - [Hacken](https://hacken.io/)
