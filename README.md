@@ -89,7 +89,9 @@
 ## Blockchain security project party audit report
 
 - [AutofarmNetwork Audit Report](https://github.com/autofarmnetwork/autofarm_audits)
+- 
 - [NUTMoneyDeFi Audit Report](https://github.com/nutmoneydefi/audit-report)
+- 
 - [Quras Audit Report](https://github.com/quras-official/audit-report)
 
 ## Tools
@@ -278,4 +280,4 @@
 
 [Etherscan Smart Contracts Audits](https://etherscan.io/directory/Smart_Contracts/Smart_Contracts_Audit_And_Security)
 
-[OffcierCia - DeFi-Developer-Road-Map](https://github.com/OffcierCia/DeFi-Developer-Road-Map)
+[OffcierCia DeFi-Developer-Road-Map](https://github.com/OffcierCia/DeFi-Developer-Road-Map)
