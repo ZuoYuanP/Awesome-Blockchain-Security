@@ -116,9 +116,9 @@
 
 - [SmartCheck](https://github.com/smartdec/smartcheck) - Static smart contract security analyzer
 
-- [Solgraph][https://github.com/raineorshine/solgraph]  - Visualise Solidity control flow for smart contract security analysis
+- [Solgraph](https://github.com/raineorshine/solgraph)  - Visualise Solidity control flow for smart contract security analysis
 
-- [Manticore][https://github.com/trailofbits/manticore] - Symbolic execution tool on Smart Contracts and Binaries
+- [Manticore](https://github.com/trailofbits/manticore) - Symbolic execution tool on Smart Contracts and Binaries
 
 - [Rattle](https://trailofbits.wufoo.com/forms/m1qfujq31qyj9ee/) - Rattle is an EVM static analyzer that analyzes the EVM bytecode directly for vulnerabilities.
 
@@ -278,3 +278,4 @@
 
 [Etherscan Smart Contracts Audits](https://etherscan.io/directory/Smart_Contracts/Smart_Contracts_Audit_And_Security)
 
+[OffcierCia - DeFi-Developer-Road-Map](https://github.com/OffcierCia/DeFi-Developer-Road-Map)
