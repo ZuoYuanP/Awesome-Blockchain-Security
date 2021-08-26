@@ -89,9 +89,9 @@
 ## Blockchain security project party audit report
 
 - [AutofarmNetwork Audit Report](https://github.com/autofarmnetwork/autofarm_audits)
-- 
+
 - [NUTMoneyDeFi Audit Report](https://github.com/nutmoneydefi/audit-report)
-- 
+
 - [Quras Audit Report](https://github.com/quras-official/audit-report)
 
 ## Tools
