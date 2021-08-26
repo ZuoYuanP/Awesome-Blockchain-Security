@@ -92,6 +92,44 @@
 - [NUTMoneyDeFi Audit Report](https://github.com/nutmoneydefi/audit-report)
 - [Quras Audit Report](https://github.com/quras-official/audit-report)
 
+## Tools
+
+- [Porosity](https://github.com/comaeio/porosity) - Decompiler and Security Analysis tool for Blockchain-based Ethereum Smart-Contracts.
+
+- [Mythril](https://github.com/ConsenSys/mythril) - Security analysis tool for Ethereum smart contracts.
+
+- [MAIAN](https://github.com/MAIAN-tool/MAIAN) - Automatic tool for finding trace vulnerabilities in Ethereum smart contracts.
+
+- [Echidna](https://github.com/trailofbits/echidna) - Ethereum fuzz testing framework.
+
+- [Manticore](https://github.com/trailofbits/manticore) - Manticore uses symbolic execution to simulate complex multi-contract and multi-transaction attacks against EVM bytecode.
+
+- [Ethersplay](https://github.com/trailofbits/ethersplay) - A graphical EVM disassembler with advanced features. (Binja)
+
+- [Oyente](https://github.com/melonproject/oyente) - An automatic EVM code analyzer based on symbolic execution and Z3 SMT solver.
+
+- [IDA-EVM](https://github.com/trailofbits/ida-evm) - IDA Processor Module for the Ethereum Virtual Machine.
+
+- [Evmdis](https://github.com/arachnid/evmdis) - EVM disassembler.
+
+- [Securify](https://securify.ch/) - Formal Verification of Ethereum Smart Contracts.
+
+- [SmartCheck](https://github.com/smartdec/smartcheck) - Static smart contract security analyzer
+
+- [Solgraph][https://github.com/raineorshine/solgraph]  - Visualise Solidity control flow for smart contract security analysis
+
+- [Manticore][https://github.com/trailofbits/manticore] - Symbolic execution tool on Smart Contracts and Binaries
+
+- [Rattle](https://trailofbits.wufoo.com/forms/m1qfujq31qyj9ee/) - Rattle is an EVM static analyzer that analyzes the EVM bytecode directly for vulnerabilities.
+
+- [Slither](https://github.com/trailofbits/slither) - Static analysis on Solidity.
+
+- [Diligence](https://consensys.net/diligence/) - Security Services, Tools and Best Practices for the Ethereum Ecosystem.
+
+- [Fuildai](https://fluidai.co/) - Fluid is an AI that can automatically find and fix fatal security vulnerabilities in Smart Contracts.
+
+- [VS Code](https://diligence.consensys.net/blog/2019/10/solidity-visual-auditor-extension-for-vs-code/) - Solidity Visual Auditor Extension for VS Code.
+
 ## Blockchain Books
 
 - [Mastering Bitcoin: Programming The Open Blockchain](https://book.douban.com/subject/33476106/)
