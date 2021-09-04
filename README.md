@@ -46,6 +46,12 @@
 
 - [xxxeyJ's Blog](https://tricksongs.com/) -  Security Researcher
 
+- [Paradigm's Blog](https://www.paradigm.xyz/writing/) - Paradigm is an investment firm focused on supporting the great crypto companies
+
+- [samczsun's Blog](https://samczsun.com/) - Paradigm Security Researcher
+
+- [Rivaill's Blog](https://www.tofreedom.me/) - Security Researcher
+
 - [Ethereum](https://blog.ethereum.org/category/security/) - Ethereum's Blog
 
 - [OpenZeppelin](https://blog.openzeppelin.com/) - OpenZeppelin's Blog
@@ -281,3 +287,4 @@
 [Etherscan Smart Contracts Audits](https://etherscan.io/directory/Smart_Contracts/Smart_Contracts_Audit_And_Security)
 
 [OffcierCia - DeFi Developer Road Map](https://github.com/OffcierCia/DeFi-Developer-Road-Map)
+
