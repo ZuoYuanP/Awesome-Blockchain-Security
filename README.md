@@ -212,6 +212,8 @@
 
 - [Solidified](https://solidified.io/)
 
+- [Paladin](https://paladinsec.co/)
+
 - [BlockHunters](https://blockhunters.io/)
 
 - [Blockchain Consilium](https://www.blockchainconsilium.com/)
@@ -239,6 +241,8 @@
 - [CERTORA](https://www.certora.com/)
 
 - [Decenter](https://www.decenter.com/)
+
+- [TechRate](https://techrate.org/)
 
 - [Hacken](https://hacken.io/)
 
@@ -287,4 +291,3 @@
 [Etherscan Smart Contracts Audits](https://etherscan.io/directory/Smart_Contracts/Smart_Contracts_Audit_And_Security)
 
 [OffcierCia - DeFi Developer Road Map](https://github.com/OffcierCia/DeFi-Developer-Road-Map)
-
