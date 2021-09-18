@@ -4,7 +4,9 @@
 
 * Author: xxxeyJ
 * Blog: [tricksongs.com](https://tricksongs.com/)
-* 知识星球: 区块危机 (BLOCKCRISIS)
+* Email: [xxx3yJ@protonmail.ch](xxx3yJ@protonmail.ch)
+* 知识星球: [区块危机 (BLOCKCRISIS)](https://wx.zsxq.com/mweb/views/joingroup/join_group.html?group_id=15522515422182)
+* publications: [github.com/xxxeyJ/publications](https://github.com/xxxeyJ/publications)
 
 ## Blockchain Cornerstone
 
@@ -72,13 +74,19 @@
 
 - [Immunefi](https://medium.com/immunefi) - Immunefi's Blog
 
-## Blockchain Security Audit Reports
+## Smart Contract Audit Reports
 
 - [OpenZeppelin Audit Reports](https://blog.openzeppelin.com/security-audits/)
 
 - [PeckShield Audit Reports](https://github.com/peckshield/publications/tree/master/audit_reports)
 
 - [SlowMist Audit Reports](https://github.com/slowmist/Knowledge-Base/tree/master/open-report)
+
+- [Trail of Bits Audit Reports](https://github.com/trailofbits/publications/tree/master/reviews)
+
+- [Halborn Audit Reports](https://github.com/HalbornSecurity/PublicReports)
+
+- [InterfiNetwork Audit Reports](https://github.com/interfinetwork/smart-contract-audits)
 
 - [Solidified Audit Reports](https://github.com/solidified-platform/audits)
 
@@ -87,6 +95,8 @@
 - [ImmuneBytes Audit Reports](https://github.com/ImmuneBytes/Smart-Contract-Audit-Reports)
 
 - [TechRate Audit Reports](https://github.com/TechRate/Smart-Contract-Audits)
+
+- [MixBytes Audit Reports](https://github.com/mixbytes/audits_public)
 
 - [Quillhash Audit Reports](https://github.com/Quillhash/Audit_Reports)
 
@@ -109,8 +119,6 @@
 - [MAIAN](https://github.com/MAIAN-tool/MAIAN) - Automatic tool for finding trace vulnerabilities in Ethereum smart contracts.
 
 - [Echidna](https://github.com/trailofbits/echidna) - Ethereum fuzz testing framework.
-
-- [Manticore](https://github.com/trailofbits/manticore) - Manticore uses symbolic execution to simulate complex multi-contract and multi-transaction attacks against EVM bytecode.
 
 - [Ethersplay](https://github.com/trailofbits/ethersplay) - A graphical EVM disassembler with advanced features. (Binja)
 
@@ -136,7 +144,7 @@
 
 - [Fuildai](https://fluidai.co/) - Fluid is an AI that can automatically find and fix fatal security vulnerabilities in Smart Contracts.
 
-- [VS Code](https://diligence.consensys.net/blog/2019/10/solidity-visual-auditor-extension-for-vs-code/) - Solidity Visual Auditor Extension for VS Code.
+- [VSCode](https://diligence.consensys.net/blog/2019/10/solidity-visual-auditor-extension-for-vs-code/) - Solidity Visual Auditor Extension for VS Code.
 
 ## Blockchain Books
 
@@ -291,3 +299,4 @@
 [Etherscan Smart Contracts Audits](https://etherscan.io/directory/Smart_Contracts/Smart_Contracts_Audit_And_Security)
 
 [OffcierCia - DeFi Developer Road Map](https://github.com/OffcierCia/DeFi-Developer-Road-Map)
+
