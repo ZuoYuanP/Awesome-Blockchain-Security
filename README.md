@@ -77,29 +77,19 @@
 ## Smart Contract Audit Reports
 
 - [OpenZeppelin Audit Reports](https://blog.openzeppelin.com/security-audits/)
-
+- [ConsenSys Diligence Audit Reports](https://consensys.net/diligence/audits/)
 - [PeckShield Audit Reports](https://github.com/peckshield/publications/tree/master/audit_reports)
-
 - [SlowMist Audit Reports](https://github.com/slowmist/Knowledge-Base/tree/master/open-report)
-
 - [Trail of Bits Audit Reports](https://github.com/trailofbits/publications/tree/master/reviews)
-
+- [Tech Audit USA Audit Reports](https://github.com/TechAuditUSA/SmartContractAudit)
 - [Halborn Audit Reports](https://github.com/HalbornSecurity/PublicReports)
-
 - [InterfiNetwork Audit Reports](https://github.com/interfinetwork/smart-contract-audits)
-
 - [Solidified Audit Reports](https://github.com/solidified-platform/audits)
-
 - [ChainSecurity Audit Reports](https://github.com/ChainSecurity/audits)
-
 - [ImmuneBytes Audit Reports](https://github.com/ImmuneBytes/Smart-Contract-Audit-Reports)
-
 - [TechRate Audit Reports](https://github.com/TechRate/Smart-Contract-Audits)
-
 - [MixBytes Audit Reports](https://github.com/mixbytes/audits_public)
-
 - [Quillhash Audit Reports](https://github.com/Quillhash/Audit_Reports)
-
 - [Chainsulting Audit Reports](https://github.com/chainsulting/Smart-Contract-Security-Audits)
 
 ## Blockchain security project party audit report
@@ -192,105 +182,99 @@
 
 - [Ethereum Magicians](https://ethereum-magicians.org/)
 
+## Blockchain CTFs
+
+- [Damn Vulnerable DeFi](https://www.damnvulnerabledefi.xyz/)
+
+- [Security Innovation CTF](https://blockchain-ctf.securityinnovation.com/)
+
+- [Capture the Ether](https://capturetheether.com/)
+
+- [GOATCasino](https://github.com/nccgroup/GOATCasino)
+
+- [Paradigm CTF](https://ctf.paradigm.xyz/)
+
 ## Blockchain Security Enterprise
 
 - [吞吴 - CertiK](https://www.certik.io/)
-
 - [链安 - ChainSecurity](https://chainsecurity.com/)
-
-- [安比实验室 - SECBIT](https://secbit.io/)
-
-- [慢雾科技 - SlowMist](https://slowmist.com/)
-
 - [派盾科技 - PeckShield](https://peckshield.cn/)
-
-- [长亭科技 - Chaitin](https://www.chaitin.cn/en/blockchain)
-
-- [北京链安 - ChainsGuard](https://www.chainsguard.com/)
-
+- [安比实验室 - SECBIT](https://secbit.io/)
+- [安节科技 - BlockSec Team](https://www.blocksecteam.com/)
+- [慢雾科技 - SlowMist](https://slowmist.com/)
 - [成都链安 - Beosin](https://www.lianantech.com/)
-
-- [零时科技 - Noneage](https://noneage.com/)
-
-- [降维安全 - Johnwick](https://johnwick.io/)
-
+- [北京链安 - ChainsGuard](https://www.chainsguard.com/)
 - [知道创宇 - KnownSec](https://knownseclab.com/)
-
-- [OpenZeppelin](https://openzeppelin.com/)
-
-- [Solidified](https://solidified.io/)
-
-- [Paladin](https://paladinsec.co/)
-
+- [长亭科技 - Chaitin](https://www.chaitin.cn/en/blockchain)
+- [降维安全 - Johnwick](https://johnwick.io/)
+- [零踪安全 - Fairyproof](https://www.fairyproof.com/)
+- [零时科技 - Noneage](https://noneage.com/)
+- [AnChain](https://www.anchain.ai/)
+- [ArcadiaGroup](https://arcadiamgroup.com/)
 - [BlockHunters](https://blockhunters.io/)
-
-- [Blockchain Consilium](https://www.blockchainconsilium.com/)
-
-- [Blockchain Labs NZ](https://www.blockchainlabs.nz/)
-
 - [BlockSoftLab](https://blocksoftlab.com/)
-
+- [Blockchain Consilium](https://www.blockchainconsilium.com/)
+- [Blockchain Labs NZ](https://www.blockchainlabs.nz/)
 - [Bloqchain Audit](https://thebloqchain.com/)
-
-- [Callisto Network](https://callisto.network/)
-
-- [Chainsulting](https://chainsulting.de/)
-
-- [Coinbae](https://coinbae.org/)
-
-- [Coinfabrik](https://www.coinfabrik.com/)
-
-- [CoinMercenary](https://www.coinmercenary.com/)
-
-- [Coinspect](https://www.coinspect.com/)
-
-- [ConsenSys Diligence](https://consensys.net/diligence/)
-
+- [BlockStream](https://blockstream.com/)
+- [Bramah Systems](https://www.bramah.systems/)
 - [CERTORA](https://www.certora.com/)
-
+- [Callisto Network](https://callisto.network/)
+- [Chainsulting](https://chainsulting.de/)
+- [CoinMercenary](https://www.coinmercenary.com/)
+- [Coinbae](https://coinbae.org/)
+- [Coinfabrik](https://www.coinfabrik.com/)
+- [Coinspect](https://www.coinspect.com/)
+- [ConsenSys Diligence](https://consensys.net/diligence/)
+- [Code423n4](https://code423n4.com/)
+- [CryptoManiaks](https://cryptomaniaks.com/)
+- [CrypticLabs](https://crypticlabs.org/)
+- [CTDSec](https://www.ctdsec.com/)
+- [CyberUnit](https://cyberunit.tech/)
+- [dApp.org](https://dapp.org.uk/)
+- [Dedaub](https://www.dedaub.com/)
 - [Decenter](https://www.decenter.com/)
-
-- [TechRate](https://techrate.org/)
-
+- [DeFi SafeTy](https://defisafety.com/)
+- [Dessert Finance](https://dessertswap.finance/)
+- [Enebula](https://enebula.in/)
+- [EtherAuthority](https://etherauthority.io/)
 - [Hacken](https://hacken.io/)
-
 - [HAECHI](https://haechi.io/)
-
+- [Halborn](https://halborn.com/)
+- [HashEx](https://hashex.org/)
 - [ImmuneBytes](https://immunebytes.com/)
-
 - [Immunefi](https://immunefi.com/)
-
+- [Inspex](https://inspex.co/)
 - [Iosiro](https://www.iosiro.com/)
-
 - [Kaspersky](https://www.kaspersky.com/blockchainsecurity/)
-
+- [Least Authority](https://leastauthority.com/)
 - [MixBytes](https://mixbytes.io/)
-
 - [New Alchemy](https://audits.newalchemy.io/)
-
+- [OpenZeppelin](https://openzeppelin.com/)
+- [Paladin](https://paladinsec.co/)
 - [PepperSec](https://peppersec.com/)
-
+- [Pessimistic](https://pessimistic.io/)
 - [Quantstamp](https://quantstamp.com/)
-
 - [QuillAudits](https://audits.quillhash.com/)
-
+- [RDAuditors](https://www.rdauditors.com/)
 - [Runtime Vеrification](https://www.runtimeverification.com/smartcontract/)
-
-- [Smartdec](https://smartcontracts.smartdec.net/)
-
-- [Solidified](https://solidified.io/)
-
-- [Solidity Finance](https://solidity.finance/)
-
-- [Somish](https://www.somish.com/)
-
+- [Sentnl](https://sentnl.io/)
+- [ShellBoxes](https://shellboxes.com/)
 - [SOOHO](https://www.sooho.io/)
-
+- [Smartdec](https://smartcontracts.smartdec.net/)
+- [Solidified](https://solidified.io/)
+- [Solidity Finance](https://solidity.finance/)
+- [Somish](https://www.somish.com/)
+- [SolidProof](https://solidproof.io/)
+- [SigmaPrime](https://sigmaprime.io/)
+- [Tech Audit USA](https://github.com/TechAuditUSA)
+- [TechRate](https://techrate.org/)
+- [Theori](https://theori.io/)
+- [Trail of Bits](https://www.trailofbits.com/)
 - [Validity Labs](https://validitylabs.org/)
-
 - [Verichains Lab](https://www.verichains.io/)
-
 - [ZK Labs](https://zklabs.io/)
+- [Zokyo](https://www.zokyo.io/)
 
 ## References
 
@@ -299,4 +283,3 @@
 [Etherscan Smart Contracts Audits](https://etherscan.io/directory/Smart_Contracts/Smart_Contracts_Audit_And_Security)
 
 [OffcierCia - DeFi Developer Road Map](https://github.com/OffcierCia/DeFi-Developer-Road-Map)
-
