@@ -46,15 +46,27 @@
 
 ## Blockchain Security Blogs
 
-- [xxxeyJ's Blog](https://tricksongs.com/) -  Security Researcher
+### Personal
 
-- [Paradigm's Blog](https://www.paradigm.xyz/writing/) - Paradigm is an investment firm focused on supporting the great crypto companies
+- [xxxeyJ's Blog](https://tricksongs.com/) -  Security Researcher
 
 - [samczsun's Blog](https://samczsun.com/) - Paradigm Security Researcher
 
 - [Rivaill's Blog](https://www.tofreedom.me/) - Security Researcher
 
+- [Arvanaghi's Blog](https://arvanaghi.com/) - Security Researcher
+
+- [Christoph Michel's Blog](https://cmichel.io/) - Security Researcher
+
+- [Adrian's Blog](https://www.adrianhetman.com/) - Security Researcher
+
+### Organization
+
+- [Paradigm's Blog](https://www.paradigm.xyz/writing/) - Paradigm is an investment firm focused on supporting the great crypto companies
+
 - [Ethereum](https://blog.ethereum.org/category/security/) - Ethereum's Blog
+
+- [SECBIT Labs](https://secbit.io/blog/) - SECBIT's Blog
 
 - [OpenZeppelin](https://blog.openzeppelin.com/) - OpenZeppelin's Blog
 
