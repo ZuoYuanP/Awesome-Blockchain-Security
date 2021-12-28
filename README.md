@@ -130,7 +130,7 @@
 
 - [Evmdis](https://github.com/arachnid/evmdis) - EVM disassembler.
 
-- [Securify](https://securify.ch/) - Formal Verification of Ethereum Smart Contracts.
+- [Securify](https://github.com/eth-sri/securify2) - Formal Verification of Ethereum Smart Contracts.
 
 - [SmartCheck](https://github.com/smartdec/smartcheck) - Static smart contract security analyzer
 
